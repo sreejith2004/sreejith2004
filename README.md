@@ -16,7 +16,7 @@
 <p align="left">
   ✨ Creating bugs since <em>2004</em><br>
   📚 I'm currently learning <strong>Advanced Data Analytics & AI Engineering</strong><br>
-  🎯 Goals: Contribute to AI research and develop IoT solutions<br>
+  🎯 Goals: Learning, Learning and more Learning <br>
   🎲 Fun fact: I mentored kids through SSR initiatives
 </p>
 
