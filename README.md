@@ -80,7 +80,8 @@
 
 <h2 align="left">📊 My GitHub Statistics</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sreejith2004/sreejith2004/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreejith2004&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreejith2004&theme=vision-friendly-dark&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -96,16 +97,9 @@
 
 ---
 
-<h2 align="left">🥧 Pacman Animation</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sreejith2004/sreejith2004/output/pacman-contribution-graph.svg" alt="Pacman animation" width="300" />
-</p>
-
----
-
 <h2 align="left">🎮 Snake Animation</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sreejith2004/sreejith2004/output/snake.svg" alt="Snake animation" width="300" />
+  <img src="https://raw.githubusercontent.com/sreejith2004/sreejith2004/output/snake.svg" alt="Snake animation" width="600" />
 </p>
 
 <!-- Footer Banner -->
